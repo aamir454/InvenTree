@@ -2,8 +2,8 @@
 https://demo.inventree.org/index/
 
 
-Username  	Password	      Description
-allacess	  nolimits	      View / create / edit all pages and items
-reader	    readonly	      Can view all pages but cannot create, edit or delete database records
-engineer	  partsonly	      Can manage parts, view stock, but no access to purchase orders or sales orders
-admin	      inventree	      Superuser account, access all areas plus administrator actions
+# Username  	Password	      Description
+# allacess	  nolimits	      View / create / edit all pages and items
+# reader	    readonly	      Can view all pages but cannot create, edit or delete database records
+# engineer	  partsonly	      Can manage parts, view stock, but no access to purchase orders or sales orders
+# admin	      inventree	      Superuser account, access all areas plus administrator actions
